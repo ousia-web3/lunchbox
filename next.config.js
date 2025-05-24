@@ -3,6 +3,7 @@ const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
   output: 'export',
+  distDir: 'docs',
   
   // 배포 환경에서만 basePath 적용
   basePath: process.env.NODE_ENV === 'production' ? '/lunchbox' : '',
