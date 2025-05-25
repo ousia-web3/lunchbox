@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/lunchbox/static/css/main.e9be5c9f.css",
-    "main.js": "/lunchbox/static/js/main.7e6e6ccc.js",
+    "main.css": "/lunchbox/static/css/main.e95e132e.css",
+    "main.js": "/lunchbox/static/js/main.89c564ae.js",
     "index.html": "/lunchbox/index.html",
-    "main.e9be5c9f.css.map": "/lunchbox/static/css/main.e9be5c9f.css.map",
-    "main.7e6e6ccc.js.map": "/lunchbox/static/js/main.7e6e6ccc.js.map"
+    "main.e95e132e.css.map": "/lunchbox/static/css/main.e95e132e.css.map",
+    "main.89c564ae.js.map": "/lunchbox/static/js/main.89c564ae.js.map"
   },
   "entrypoints": [
-    "static/css/main.e9be5c9f.css",
-    "static/js/main.7e6e6ccc.js"
+    "static/css/main.e95e132e.css",
+    "static/js/main.89c564ae.js"
   ]
 }
