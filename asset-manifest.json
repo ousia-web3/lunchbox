@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lunchbox/static/css/main.e95e132e.css",
+    "main.js": "/lunchbox/static/js/main.89c564ae.js",
+    "index.html": "/lunchbox/index.html",
+    "main.e95e132e.css.map": "/lunchbox/static/css/main.e95e132e.css.map",
+    "main.89c564ae.js.map": "/lunchbox/static/js/main.89c564ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e95e132e.css",
+    "static/js/main.89c564ae.js"
+  ]
+}
